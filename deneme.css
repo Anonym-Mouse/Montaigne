@@ -3,7 +3,7 @@ body {
 }
 
 ul {
-    font-family: helvetica;
+    font-family: arial;
 }
 
 li {
@@ -14,6 +14,6 @@ li {
     list-style: circle;
   }
   
-#msg {
+#mesaj {
     font-family: monospace;
   }
